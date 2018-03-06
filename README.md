@@ -123,6 +123,7 @@ It creates:
 
 Creating a Fargate stack requires you to have first created a [VPC](#vpc) stack, and to enter the name of the VPC stack as the NetworkStackName parameter.
 
+
 The **_fargate.cfn.yml_** template creates:
 
 - An S3 bucket for the container
